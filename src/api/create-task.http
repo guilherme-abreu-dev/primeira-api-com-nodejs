@@ -1,0 +1,6 @@
+POST http://localhost:3000/criar
+content-type: application/json
+
+{
+    "description": "Estudar sobre Node.js"
+}

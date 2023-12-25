@@ -1,0 +1,6 @@
+PUT http://localhost:3000/atualizar/4
+content-type: application/json
+
+{
+    "description": "Quero aprender mais sobre Node.js"
+}
